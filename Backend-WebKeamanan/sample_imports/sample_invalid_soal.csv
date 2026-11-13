@@ -1,0 +1,7 @@
+question,option_a,option_b,option_c,option_d,correct_answer,subject,difficulty,explanation,points
+"Soal Baris 2 Valid","Opsi A","Opsi B","Opsi C","Opsi D","A","Keamanan Web & Jaringan","medium","Penjelasan valid",1
+"","Pilihan A","Pilihan B","Pilihan C","Pilihan D","A","Keamanan Web & Jaringan","easy","Pertanyaan kosong (error di baris 3)",1
+"Soal Baris 4 Kunci Tidak Valid","Opsi A","Opsi B","Opsi C","Opsi D","Z","Keamanan Web & Jaringan","easy","Kunci Z bukan A/B/C/D (error di baris 4)",1
+"Soal Baris 5 Opsi B Kosong","Opsi A","","Opsi C","Opsi D","C","Keamanan Web & Jaringan","hard","Opsi B kosong (error di baris 5)",2
+"Soal Baris 6 Poin Negatif","Opsi A","Opsi B","Opsi C","Opsi D","D","Keamanan Web & Jaringan","medium","Poin negatif (error di baris 6)",-5
+
